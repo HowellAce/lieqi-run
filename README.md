@@ -5,7 +5,7 @@
 ## 如何提交修改
 
 如需对本项目的规则或内容提出修改建议，请先阅读贡献指南：  
-[贡献指南（CONTRIBUTING.md）](CONTRIBUTING.md) 0
+[贡献指南（CONTRIBUTING.md）](CONTRIBUTING.md)
 
 请不要直接修改主分支；所有更改应通过 Pull Request 提交，由作者审核并合并后才生效。
 
